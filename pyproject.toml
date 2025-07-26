@@ -1,0 +1,16 @@
+[project]
+name = "sandbox-pytorch"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "dataclasses>=0.8",
+    "datetime>=5.5",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "pandas-stubs==2.3.0.250703",
+    "pathlib>=1.0.1",
+    "torch>=2.7.1",
+    "typing>=3.10.0.0",
+]
